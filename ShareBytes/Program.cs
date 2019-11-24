@@ -14,9 +14,11 @@ namespace ShareBytes
         [STAThread]
         static void Main()
         {
+            string credential_path = "C:\\Users\\RUSHI\\source\\repos\\ShareBytes (Publish)\\Key\\sharebyte-256510-c78ab63b4f12.json";
+            System.Environment.SetEnvironmentVariable("GOOGLE_APPLICATION_CREDENTIALS", credential_path);
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new Login());
         }
     }
 }

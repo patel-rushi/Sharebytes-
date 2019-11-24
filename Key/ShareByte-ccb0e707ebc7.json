@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "sharebyte",
+  "private_key_id": "ccb0e707ebc769f15b01cbde99944c54d21983d8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDekDyEKaEWQPOc\nPZD4G3DEFhnzd01U00tZ373oSCyaq1kulSmiclAQ5KlfylrBeFsdOsWvbIvgeL5K\noKbOlZg0QamgiEq/0F17Jg7gJcYVdS6a6pm0DbpjUQKB8HZ3RmY/f96Q4k4FzeaY\n0YQlyZf9ssYSdNnJi2IkPwZf10ud3uqeqt3sqe/YbDYQ+1JkV82XiI/EP3najgqz\nx64NHsiAYpzjLjuU7Y+wbNyPKsP5/JfTOMPqYmkb/4S/OfUC61zUgrLpFebyEsT9\n1JCwG7Hp1JwozCVZN8YGWdxHBIQFxbbYTfVWg6hCbfdibTu3+OB4kteRSi0gVSQl\n5oDRfdX/AgMBAAECggEAFB6c4eOzhMP9YcftBYjRgmBvGyPTUVJCkw7XZ5qysY7A\n4qWoXF+SHlzVdOvhlXDQZ82K1mdtI682oJ9yROWgG0U+VN1NSJbJBJt1p8yyYfk0\na9u+ZlkBWv4VSHLY+sJZ9u6Ty6wxmnO5H2J9XD8jptMU9dEraP1ZM2ahKGPZmZ1E\nlOELZH7IaAVXqvZnFw2uWqWJFNChwrI6qkeLHpX1gWl9TfsfcEEBUxHz34d7ov3m\nJIZtqGoxf1RSoBhgftEdRFZtwstoCeQOTsZEZxfpa6AhppYixmVCOeebDd6HBfKq\nzjq0T4NJ5j4/Pf43YEpC8qjcXDyZLHjcHJMZ0eUD0QKBgQDzwqfMIll7gZ1L6r9b\nl7dkABDyxnAojuYskBiaN77vtzJ2DS9D1QPCi1d8RTpBNE6hWTdN4siFErC6u3ef\ncwwqC9JUoRRCQ1pfSIKHBKGAiKoP7ZnyZYRXWPjS4ktTZsCe+rz/2tslA3r40Iwn\nye5qbGr0jsDzOaV8DzIjKzPnMQKBgQDpvRxxoRV/hHiM7mzKHyWRvdfEpLjuanye\nv9ZWpx1BcnGFCS6LwCdDxpeMxlOr6NnsbvZeo1Z8gNXjbQqI7kgnHoSXhoDGhmai\neCysuvRkK/jSgOdXzx8xnSkq3Gmk7EsgVtX21bRVos1WUd1jloMjMeiKGa1Pi+ZQ\naumVf8ukLwKBgQCOpcssWq2i6Sbz1lxFbXOUwbUpXZclJPrt+SVsmlLSVZLiIrUW\nLQIWRxTbVGfS4JljMqJ6ocxWk6l4nVxToy/rKx/bBqikXmX0fKpl+P/KCC/9Qj5k\n66OWuipivqr2E5uFbZZM4/Z6op7EHMboQfOTs/6jPycLLyD4iKv+iLnHAQKBgCJy\n781De4KmyImk3j3P516ah0GBMYxZ/3H6PiHZUXOC5X5BAy4vrNnNXCqwVEai8/Nn\ny0HZevawmlWBjaruy42QbuRSO4qG5nuNkLAIgdp9rJeBzhbf/O34Bsg9Ygifltb2\nVWSizIhOjUrql+GEnmFCis5HyIZPzSsPBsw04JObAoGAS2++aZ0tPO/Snv+ioD6Z\n6GWTAJp4S9sAMIBLSwbVxiREufWE2OzcXkdrKe1FgIkFj4GtwOK/VviJ9FVoeLcL\nFICUIYGm+sTyO/v0w9LQVzsW4xHf6EdtGKnucFE9+0MlcXfXndwH2b0jMGmUNMks\nzGxlsZu9qkysbM6Qnw+5p2Q=\n-----END PRIVATE KEY-----\n",
+  "client_email": "rushi-patel@sharebyte.iam.gserviceaccount.com",
+  "client_id": "116276075041812053903",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/rushi-patel%40sharebyte.iam.gserviceaccount.com"
+}
