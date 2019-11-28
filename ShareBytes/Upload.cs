@@ -230,6 +230,7 @@ namespace ShareBytes
 
         private void bindfolder_bw_RunWorkerCompleted(object sender, RunWorkerCompletedEventArgs e)
         {
+            //background Worker
             circularProgressBar2.Visible = false;
             cmbsub.DisplayMember = "Folders";
             cmbsub.ValueMember = "Folders";
